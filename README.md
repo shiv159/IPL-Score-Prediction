@@ -1,4 +1,4 @@
-                                                       # Score Predictor for IPL 
-                                                      ##A Machine Learning Flask Web App
+                                                       Score Predictor for IPL 
+                                                      A Machine Learning Flask Web App
                                                       
 
