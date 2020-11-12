@@ -1,6 +1,9 @@
 #                                                     Score Predictor for IPL 
 ##                                                 A Machine Learning Flask Web App
-##### This project is an attempt to predict the winner of T20 cricket matches. The objective is to predict the result (winner) of every IPL match. 
+
+The Indian Premier League, officially Vivo Indian Premier League (for sponsorship reasons), is a professional Twenty20 cricket league in India contested during April and May of every year by teams representing Indian cities and some states.
+##### This project is an attempt to predict the score of T20 cricket matches.
+##### The dataset that we use in this project is IPL (Indian Premier League) Dataset posted on Kaggle Datasets 
 
 ###                            https://ipl-score-predictorr.herokuapp.com/
 
