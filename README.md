@@ -1,5 +1,7 @@
 #                                                     Score Predictor for IPL 
 ##                                                 A Machine Learning Flask Web App
+##### This project is an attempt to predict the winner of T20 cricket matches. The objective is to predict the result (winner) of every IPL match. 
+
 ###                            https://ipl-score-predictorr.herokuapp.com/
 
                                                       
